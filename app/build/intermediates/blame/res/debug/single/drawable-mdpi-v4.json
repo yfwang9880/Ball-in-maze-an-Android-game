@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "D:\\android_studio_study\\BallGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\h.png",
+        "source": "D:\\android_studio_study\\BallGame\\app\\src\\main\\res\\drawable-mdpi\\h.png"
+    },
+    {
+        "merged": "D:\\android_studio_study\\BallGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\menu_play.png",
+        "source": "D:\\android_studio_study\\BallGame\\app\\src\\main\\res\\drawable-mdpi\\menu_play.png"
+    },
+    {
+        "merged": "D:\\android_studio_study\\BallGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\gamewin.png",
+        "source": "D:\\android_studio_study\\BallGame\\app\\src\\main\\res\\drawable-mdpi\\gamewin.png"
+    },
+    {
+        "merged": "D:\\android_studio_study\\BallGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\menu_replay.png",
+        "source": "D:\\android_studio_study\\BallGame\\app\\src\\main\\res\\drawable-mdpi\\menu_replay.png"
+    },
+    {
+        "merged": "D:\\android_studio_study\\BallGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\helpbg.png",
+        "source": "D:\\android_studio_study\\BallGame\\app\\src\\main\\res\\drawable-mdpi\\helpbg.png"
+    },
+    {
+        "merged": "D:\\android_studio_study\\BallGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\gamelost.png",
+        "source": "D:\\android_studio_study\\BallGame\\app\\src\\main\\res\\drawable-mdpi\\gamelost.png"
+    },
+    {
+        "merged": "D:\\android_studio_study\\BallGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\lostbody.png",
+        "source": "D:\\android_studio_study\\BallGame\\app\\src\\main\\res\\drawable-mdpi\\lostbody.png"
+    },
+    {
+        "merged": "D:\\android_studio_study\\BallGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\s.png",
+        "source": "D:\\android_studio_study\\BallGame\\app\\src\\main\\res\\drawable-mdpi\\s.png"
+    },
+    {
+        "merged": "D:\\android_studio_study\\BallGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\menu_back.png",
+        "source": "D:\\android_studio_study\\BallGame\\app\\src\\main\\res\\drawable-mdpi\\menu_back.png"
+    },
+    {
+        "merged": "D:\\android_studio_study\\BallGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\game_bg.png",
+        "source": "D:\\android_studio_study\\BallGame\\app\\src\\main\\res\\drawable-mdpi\\game_bg.png"
+    },
+    {
+        "merged": "D:\\android_studio_study\\BallGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\smallbg.png",
+        "source": "D:\\android_studio_study\\BallGame\\app\\src\\main\\res\\drawable-mdpi\\smallbg.png"
+    },
+    {
+        "merged": "D:\\android_studio_study\\BallGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\menu_bg.png",
+        "source": "D:\\android_studio_study\\BallGame\\app\\src\\main\\res\\drawable-mdpi\\menu_bg.png"
+    },
+    {
+        "merged": "D:\\android_studio_study\\BallGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\menu_menu.png",
+        "source": "D:\\android_studio_study\\BallGame\\app\\src\\main\\res\\drawable-mdpi\\menu_menu.png"
+    },
+    {
+        "merged": "D:\\android_studio_study\\BallGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\menu_exit.png",
+        "source": "D:\\android_studio_study\\BallGame\\app\\src\\main\\res\\drawable-mdpi\\menu_exit.png"
+    },
+    {
+        "merged": "D:\\android_studio_study\\BallGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ball.png",
+        "source": "D:\\android_studio_study\\BallGame\\app\\src\\main\\res\\drawable-mdpi\\ball.png"
+    },
+    {
+        "merged": "D:\\android_studio_study\\BallGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ss.png",
+        "source": "D:\\android_studio_study\\BallGame\\app\\src\\main\\res\\drawable-mdpi\\ss.png"
+    },
+    {
+        "merged": "D:\\android_studio_study\\BallGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\menu_help.png",
+        "source": "D:\\android_studio_study\\BallGame\\app\\src\\main\\res\\drawable-mdpi\\menu_help.png"
+    },
+    {
+        "merged": "D:\\android_studio_study\\BallGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\sh.png",
+        "source": "D:\\android_studio_study\\BallGame\\app\\src\\main\\res\\drawable-mdpi\\sh.png"
+    },
+    {
+        "merged": "D:\\android_studio_study\\BallGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon.png",
+        "source": "D:\\android_studio_study\\BallGame\\app\\src\\main\\res\\drawable-mdpi\\icon.png"
+    },
+    {
+        "merged": "D:\\android_studio_study\\BallGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\winbody.png",
+        "source": "D:\\android_studio_study\\BallGame\\app\\src\\main\\res\\drawable-mdpi\\winbody.png"
+    },
+    {
+        "merged": "D:\\android_studio_study\\BallGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\menu_resume.png",
+        "source": "D:\\android_studio_study\\BallGame\\app\\src\\main\\res\\drawable-mdpi\\menu_resume.png"
+    }
+]
